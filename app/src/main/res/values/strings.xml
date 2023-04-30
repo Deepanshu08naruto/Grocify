@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Grocify</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="grocify">Grocify</string>
+    <string name="register">Register</string>
+    <string name="todo">TODO</string>
+    <string name="hello_explore_your_dream_food">Hello Explore Your Dream Food</string>
+    <string name="sign_in">Sign In</string>
+    <string name="registerregister">Register</string>
+    <string name="email_id">Email Id</string>
+    <string name="password">Password</string>
+    <string name="already_registered">Already Registered ?</string>
+    <string name="registersignin">Sign In</string>
+    <string name="full_name">Full Name</string>
+    <string name="todo2">TODO</string>
+    <string name="sign_signin">Sign-In</string>
+    <string name="don_t_have_an_account">Don\'t Have An Account?</string>
+    <string name="home">Home</string>
+    <string name="favourite">Favourite</string>
+    <string name="daily_meal">Daily Meal</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_cart">My Cart</string>
+    <string name="tyagideepanshu0810_gmail_com">tyagideepanshu0810_gmail_com</string>
+    <string name="deepanshu_tyagi">deepanshu_tyagi</string>
+    <string name="log_out">Log Out</string>
+    <string name="search_your_food">Search your Food!</string>
+    <string name="hello_deepanshu">Hello Deepanshu</string>
+    <string name="apple">Apple</string>
+    <string name="daily_meals">Daily Meals</string>
+    <string name="first_order_voucher_use_and_get_upto_50_off_on_order_500_and_above_t_c_applied"><![CDATA[FIRST ORDER voucher use and get upto 50% off on order 500 and above. T&C applied]]></string>
+    <string name="fruits">Fruits</string>
+    <string name="home2">HOME</string>
+    <string name="discounts">Discounts</string>
+    <string name="menu">Menu</string>
+    <string name="tomato">Tomato</string>
+    <string name="rs_20">Rs.20</string>
+    <string name="_15_min">15 min</string>
+    <string name="_5_0">5.0</string>
+    <string name="fresh_grocery">Fresh Grocery</string>
+    <string name="search_for_your_food">Search for Your Food!</string>
+    <string name="tea_coffee"><![CDATA[Tea & Coffee]]></string>
+    <string name="snacktastic">Snacktastic</string>
+    <string name="grocery">Grocery</string>
+    <string name="rs_50">Rs.50</string>
+    <string name="rs_202">Rs.20</string>
+    <string name="phone_number">Phone Number</string>
+</resources>
